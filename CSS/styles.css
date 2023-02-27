@@ -1,0 +1,38 @@
+h1{
+  color: #4F9D69;
+  font-size: 30px;
+  font-family: cursive;
+  margin: 25px;
+}
+
+h3{
+  color:#394F49;
+  font-family: monospace;
+  font-size: 19px;
+  margin: 25px;
+}
+
+p{
+  font-family: sans-serif;
+  margin: 25px;
+  font-size: 17px;
+}
+
+img{
+  height: 170px;
+  margin-left: 25px;
+  align-content: center;
+}
+li{
+  margin-left: 25px;
+  font-family: sans-serif;
+  font-size: 15px;
+
+}
+hr{
+border-color: salmon;
+border-width: 5px;
+border-style: dotted;
+width: 5%;
+
+}
